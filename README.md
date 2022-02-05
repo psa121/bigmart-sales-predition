@@ -40,18 +40,31 @@ Item_Outlet_Sales - Sales of the product in the particulat store. This is the ou
 # We will handle this problem in a structured way.
 
 Problem Statement
+
 Hypothesis Generation
+]
 Loading Packages and Data
+
 Data Structure and Content
+
 Exploratory Data Analysis- Univariate Analysis
+
 Bivariate Analysis
+
 Missing Value Treatment
+
 Feature Engineering
+
 Encoding Categorical Variables
+
 Label Encoding
+
 One Hot Encoding
+
 PreProcessing Data
+
 Modeling
+
 Linear Regression
 Regularized Linear Regression
 RandomForest
